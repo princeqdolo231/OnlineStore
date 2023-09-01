@@ -150,6 +150,22 @@ nav>a {
     flex: 1;
 }
 
+.Testimony-Card-2 {
+    display: flex;
+    flex-direction: column;
+    /* border: 3px solid pink; */
+    padding: 1rem 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Testimony-Card-3 {
+    display: flex;
+    flex-direction: column;
+    /* border: 3px solid pink; */
+    padding: 1rem 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 .Testimony-Information {
     /* border: 3px solid pink; */
     display: flex;
